@@ -1,3 +1,3 @@
 # npedotnet.github.io
 
-This repository is my GitHub Page! :shipit:
+This is my GitHub Page repository :shipit:
